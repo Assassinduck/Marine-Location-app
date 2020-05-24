@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marine Lookup Service</string>
+    <string name="title_activity_maps" />
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude +</string>
+    <string name="textview">TextView</string>
+    <string name="place_name">Place Name</string>
+    <string name="MapPin">image</string>
+    <string name="marine_location_lookup">Marine Location Lookup</string>
+    <string name="splash_screen_image">Splash screen image</string>
+    <string name="Description" />
+    <string name="search">Search</string>
+</resources>
